@@ -30,3 +30,4 @@ odm_data_seneca | 167 | 358 | ◯ | ✕
 odm_data_keioSFC | 194 | 979.7 |  ◯ | ✕
 odm_data_snowpeak | 140 | 767.3 |  ◯ | ✕
 
+##odm_data_snowpeak
